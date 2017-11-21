@@ -1,1 +1,1 @@
-Lucy and Hugo's server
+## Lucy and Hugo's servers
